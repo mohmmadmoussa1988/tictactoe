@@ -14,7 +14,6 @@ export class GameController {
     @Get('/:id')
     getGameById(@Param('id',ParseIntPipe) id:number) : Promise<Game>{
       return this.GameService.getGameById(id);
-
     }
 
     @Post()
