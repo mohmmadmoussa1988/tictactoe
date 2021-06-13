@@ -14,7 +14,7 @@ export class GameController {
     }
 
     @Get('/:id')
-    @ApiOkResponse({description:'game/:id has successfully returned.'})
+    @ApiOkResponse({description:'Will return Game Id and Players'})
     @ApiForbiddenResponse({description : 'Forbidden'})
     getGameById(@Param('id',ParseIntPipe) id:number) : Promise<Game>{
       return this.GameService.getGameById(id);

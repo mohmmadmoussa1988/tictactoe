@@ -21,8 +21,8 @@ export class GameService {
         return found;
     }
 
-     createGame(createTaskDto:CreategameDTO):Promise<Game>{
-       return this.GameRepository.creatGame(createTaskDto);
+     async createGame(createTaskDto:CreategameDTO):Promise<Game>{
+       return await this.GameRepository.creatGame(createTaskDto);
 
     } 
 
