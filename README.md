@@ -25,8 +25,19 @@ nestjs tictactoe
 # Check below screenshots
 
 - Create game for 2 human players
-- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Create_game_with_2_players.png" width="50%"><br/><br/>
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Create_game_with_2_players.png" width="100%"><br/><br/>
 <br/><br/>
 - Create game for human and computer
-- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Create_game_with_computer.png" width="50%"><br/><br/>
-<br/>
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Create_game_with_computer.png" width="100%"><br/><br/>
+<br/><br/>
+- Get game by ID
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Get_game_by_id.png" width="100%"><br/><br/>
+- <br/><br/>
+- Update game status
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Update_game_status.png" width="100%"><br/><br/>
+- - <br/><br/>
+- Playing a Move
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Playing_a_move.png" width="100%"><br/><br/>
+<br/><br/>
+- Computer won the game!
+- <img src="https://github.com/mohmmadmoussa1988/tictactoe/blob/master/images/Computer_won.png" width="100%"><br/><br/>
