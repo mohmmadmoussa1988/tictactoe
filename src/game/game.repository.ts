@@ -15,8 +15,7 @@ export class GameRepository extends Repository<Game>{
         game.user_1 = user_1;
         game.user_2 = user_2;
         game.status=GameStatus.OPEN;
-        game.save();
-
+        await game.save();
         return game;
     }
 }
