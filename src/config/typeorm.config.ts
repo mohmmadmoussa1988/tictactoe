@@ -7,5 +7,5 @@ export const typeOrmConfig: TypeOrmModuleOptions= {
     password : '',
     database : 'tictactoe',
     entities: [__dirname+'/../**/*.entity{.ts,.js}'],
-    synchronize:true
+    synchronize:true,
 }
