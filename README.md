@@ -22,6 +22,9 @@ nestjs tictactoe
 # Seventh,
   If your looking to play with the computer just use the second player name as "Computer" and use "x" character for your self
   
+# Eigth,
+Database used is mysql and you configure in src/config/typeorm.config.ts
+  
 # Check below screenshots
 
 - Create game for 2 human players
